@@ -10,6 +10,7 @@
 - `jquery-3.7.1.min.js` — 오프라인 실행을 위한 로컬 jQuery
 - `fonts/Hana2-Bold.woff2` — 화면 전체에 적용되는 하나 전용 웹폰트
 - `images/onepass-app.png` — 헤더에 표시되는 1Q ON PASS 앱 이미지
+- `images/hanati-logo.png` — 공식 홈페이지에서 가져온 푸터용 하나금융TI 로고
 - `sw.js` — 첫 방문 이후 오프라인에서도 페이지가 열리도록 하는 캐시
 - `.nojekyll` — GitHub Pages 정적 배포 설정
 

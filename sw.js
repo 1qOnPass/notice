@@ -1,12 +1,13 @@
-const CACHE_NAME = "hana-security-notice-v7";
+const CACHE_NAME = "hana-security-notice-v8";
 const OFFLINE_FILES = [
   "./",
   "./index.html",
-  "./styles.css?v=7",
+  "./styles.css?v=8",
   "./script.js?v=7",
   "./jquery-3.7.1.min.js",
   "./fonts/Hana2-Bold.woff2",
-  "./images/onepass-app.png"
+  "./images/onepass-app.png",
+  "./images/hanati-logo.png"
 ];
 
 self.addEventListener("install", function (event) {
