@@ -1,4 +1,4 @@
-const CACHE_NAME = "hana-security-notice-v4";
+const CACHE_NAME = "hana-security-notice-v6";
 const OFFLINE_FILES = [
   "./",
   "./index.html",
